@@ -1,25 +1,14 @@
-## Welcome to GitHub Pages
+## SRの概要について詳しく分析してみた！？
 
-You can use the [editor on GitHub](https://github.com/seki-project/20220422/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+どうも！　SRと申します。　大阪で人工知能について研究している学生です。
+出身地は岡山県岡山市。　趣味は各県の観光地やドラマやアニメの舞台になった場所を観光すること。　　　
+頑張っていることはダイエット！　114kg→*85kg*　　
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 概要
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
+書道5段　電気工事士２級（コンセントつけれます！）　バイク運転できます！（だれかとツーリングしてみたい）
+会社経理経験あり！（確定申告、税務署への書類等、作成可能！）
+自称大阪地理検定１級！（まかせとけ！）
 
 **Bold** and _Italic_ and `Code` text
 
