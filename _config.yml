@@ -3,4 +3,4 @@ title: SRのホームページ
 description: 軽ーく見ていってね！
 logo: SKBR.png
 plugins:
-  - jelyll-sitemap
+  - jekyll-sitemap
