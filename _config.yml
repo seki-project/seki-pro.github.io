@@ -4,3 +4,4 @@ description: 軽ーく見ていってね！
 logo: SKBR.png
 plugins:
   - jekyll-sitemap
+google_analytics: UA-228682597-1
